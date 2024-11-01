@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\user\\source\\repos\\purplebuzz\\purplebuzz\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\user\\source\\repos\\purplebuzz\\purplebuzz\\migrations\\20241101214802_contactsadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\migrations\\20241101214802_contactsadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\user\\source\\repos\\purplebuzz\\purplebuzz\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\user\\source\\repos\\purplebuzz\\purplebuzz\\models\\contact\\contactindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\models\\contact\\contactindexvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\user\\source\\repos\\purplebuzz\\purplebuzz\\models\\contact\\contactvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\models\\contact\\contactvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\user\\source\\repos\\purplebuzz\\purplebuzz\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\user\\source\\repos\\purplebuzz\\purplebuzz\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\controllers\\pricingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\user\\source\\repos\\purplebuzz\\purplebuzz\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\entities\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|c:\\users\\user\\source\\repos\\purplebuzz\\purplebuzz\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8AC5F63D-38C8-4611-B28A-033DFED26823}|PurpleBuzz\\PurpleBuzz.csproj|solutionrelative:purplebuzz\\views\\pricing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241101214802_ContactsAdded.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Migrations\\20241101214802_ContactsAdded.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Migrations\\20241101214802_ContactsAdded.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Migrations\\20241101214802_ContactsAdded.cs",
+              "RelativeToolTip": "PurpleBuzz\\Migrations\\20241101214802_ContactsAdded.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:48:03.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "PurpleBuzz\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:45:01.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactIndexVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Models\\Contact\\ContactIndexVM.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Models\\Contact\\ContactIndexVM.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Models\\Contact\\ContactIndexVM.cs",
+              "RelativeToolTip": "PurpleBuzz\\Models\\Contact\\ContactIndexVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:43:28.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Models\\Contact\\ContactVM.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Models\\Contact\\ContactVM.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Models\\Contact\\ContactVM.cs",
+              "RelativeToolTip": "PurpleBuzz\\Models\\Contact\\ContactVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:42:41.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PurpleBuzz\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:41:59.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Entities\\Contact.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Entities\\Contact.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Entities\\Contact.cs",
+              "RelativeToolTip": "PurpleBuzz\\Entities\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:41:40.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T21:33:45.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PricingController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\PricingController.cs",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Controllers\\PricingController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Controllers\\PricingController.cs",
+              "RelativeToolTip": "PurpleBuzz\\Controllers\\PricingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:13:00.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\Pricing\\Index.cshtml",
+              "RelativeDocumentMoniker": "PurpleBuzz\\Views\\Pricing\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PurpleBuzz\\PurpleBuzz\\Views\\Pricing\\Index.cshtml",
+              "RelativeToolTip": "PurpleBuzz\\Views\\Pricing\\Index.cshtml",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-01T21:10:28.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 107,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
